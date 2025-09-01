@@ -43,3 +43,4 @@ Basado en el análisis de los datos de ventas de la industria de videojuegos, se
 ### Archivos del Proyecto
 
 * **`[reporte-ventas-videojuegos.pbix](https://app.powerbi.com/groups/me/reports/5c712913-3a29-433d-b65f-12cb2fad9285?ctid=312d334d-75c2-4f23-80af-db347d214188&pbi_source=linkShare)`**: El archivo de Power BI con el modelo de datos y el informe interactivo.
+"Aviso: Los datos utilizados en este proyecto son ficticios y solo tienen fines de demostración. El enfoque principal del informe es mostrar mi proceso de análisis y visualización de datos."
